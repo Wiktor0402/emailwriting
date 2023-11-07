@@ -1,0 +1,145 @@
+
+
+@media (max-width:767px) {
+    .page-404-elem-15 {
+        padding: 0px 0px 0px 0px
+    }
+
+    .page-404-elem-10 {
+        padding: 32px 16px 32px 16px;
+        flex-direction: column;
+        align-items: center;
+        background-color: #0000000f;
+        top: 72px;
+        width: 100%;
+        display: none;
+        position: absolute
+    }
+
+    .page-404-elem-6 {
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        display: flex
+    }
+
+    .page-404-elem-7 {
+        justify-content: center;
+        width: 100%;
+        display: flex
+    }
+
+    .page-404-elem-8 {
+        justify-content: center;
+        width: 100%;
+        display: flex
+    }
+
+    .page-404-elem-9 {
+        justify-content: center;
+        width: 100%;
+        display: flex
+    }
+
+    .page-404-elem-11 {
+        display: block
+    }
+}
+
+
+@media (max-width:767px) {
+    .home-elem-2 {
+        padding: 0px 0px 0px 0px
+    }
+
+    .home-elem-6 {
+        padding: 32px 16px 32px 16px;
+        flex-direction: column;
+        align-items: center;
+        background-color: #0000000f;
+        top: 72px;
+        width: 100%;
+        display: none;
+        position: absolute
+    }
+
+    .home-elem-7 {
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        display: flex
+    }
+
+    .home-elem-8 {
+        justify-content: center;
+        width: 100%;
+        display: flex
+    }
+
+    .home-elem-9 {
+        display: block
+    }
+
+    .home-elem-11 {
+        flex-direction: column
+    }
+
+    .home-elem-12 {
+        padding: 0px 0px 40px 0px
+    }
+
+    .home-elem-15 {
+        padding: 0px 0px 40px 0px
+    }
+
+    .home-elem-16 {
+        padding: 0px 0px 0px 0px
+    }
+
+    .home-elem-19 {
+        text-align: center
+    }
+
+    .home-elem-20 {
+        row-gap: 25px;
+        column-gap: 25px;
+        justify-content: space-evenly
+    }
+
+    .home-elem-21 {
+        flex-direction: column
+    }
+
+    .home-elem-22 {
+        width: 100%
+    }
+
+    .home-elem-25 {
+        width: 100%
+    }
+
+    .home-elem-27 {
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 900px
+    }
+
+    .home-elem-28 {
+        width: 100%;
+        height: fit-content
+    }
+
+    .home-elem-32 {
+        width: 100%;
+        height: fit-content
+    }
+
+    .home-elem-36 {
+        width: 100%;
+        height: fit-content
+    }
+
+    .home-elem-41 {
+        flex-direction: column
+    }
+}
